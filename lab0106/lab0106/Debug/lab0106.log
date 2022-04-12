@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\lab\lab0106\lab0106\main.cpp(15,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-  lab0106.vcxproj -> D:\lab\lab0106\Debug\lab0106.exe
