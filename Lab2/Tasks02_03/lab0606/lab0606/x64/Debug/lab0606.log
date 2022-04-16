@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\programing\Lab2\Tasks02_02\lab0606\lab0606\Source.cpp(13,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab0606.vcxproj -> D:\programing\Lab2\Tasks02_02\lab0606\x64\Debug\lab0606.exe
