@@ -8,7 +8,7 @@ int main()
     setlocale(LC_CTYPE, "ukr");
     int n;
 
-    cout << "¬ведiть назву мiс€ц€: ";
+    cout << "¬ведiть номер мiс€ц€: ";
     cin >> n;
 
     switch (n)

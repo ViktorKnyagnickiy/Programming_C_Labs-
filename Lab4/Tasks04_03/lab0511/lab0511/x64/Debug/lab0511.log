@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\programing\Lab4\Tasks04_03\lab0511\lab0511\Source.cpp(6,11): error C2065: n: необъявленный идентификатор
+D:\programing\Lab4\Tasks04_03\lab0511\lab0511\Source.cpp(6,14): error C2065: m: необъявленный идентификатор
+D:\programing\Lab4\Tasks04_03\lab0511\lab0511\Source.cpp(10,12): error C3863: тип массива "int [1]" является неназначаемым

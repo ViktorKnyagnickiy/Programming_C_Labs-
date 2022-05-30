@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\programing\Lab7\Lab07_03\lab0703\lab0703\Source.cpp(15,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\programing\Lab7\Lab07_03\lab0703\lab0703\Source.cpp(30,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\programing\Lab7\Lab07_03\lab0703\lab0703\Source.cpp(116,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\programing\Lab7\Lab07_03\lab0703\lab0703\Source.cpp(147,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab0703.vcxproj -> D:\programing\Lab7\Lab07_03\lab0703\x64\Debug\lab0703.exe

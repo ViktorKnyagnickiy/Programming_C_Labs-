@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\programing\Lab5\Tasks05_02\lab0309\lab0309\Source.cpp(20,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programing\Lab5\Tasks05_02\lab0309\lab0309\Source.cpp(35,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab0309.vcxproj -> D:\programing\Lab5\Tasks05_02\lab0309\x64\Debug\lab0309.exe

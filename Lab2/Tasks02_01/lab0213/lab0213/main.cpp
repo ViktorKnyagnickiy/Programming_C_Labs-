@@ -10,12 +10,15 @@ int main() {
 	cin >> x;
 	res = sqrt(x * x - 2.5);
 	if (x >= 1.6){
-		cout <<"Ваш результат : "<< res;
+		cout <<"Ваш результат : "<< res << endl;
+		cout << endl;
+	
 	}
 	else {
-		cout << "Обчислення неможливi - вiд'ємний пiдкореневий вираз!";
+		cout << "Обчислення неможливi - вiд'ємний пiдкореневий вираз!" << endl;
+		cout << endl;
 	}
 
-	_getch();
+	
 	return 0;
 }

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\programing\Lab4\Tasks04_01\lab0211\lab0211\Source.cpp(12,12): warning C4101: tmp: неиспользованная локальная переменная
+  lab0211.vcxproj -> D:\programing\Lab4\Tasks04_01\lab0211\x64\Debug\lab0211.exe

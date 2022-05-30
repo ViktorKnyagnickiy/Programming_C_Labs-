@@ -16,9 +16,6 @@ int main()
 	s = y * (s0 / y) + (a * pow(t, 2) / 2);
 
 	cout << "Вiдстань кiнцева : " << s;
- 
-
-
 
 	return 0;
 }
